@@ -1,0 +1,9 @@
+﻿  1213-3_1.c
+C:\C\Project9\Project9\1213-3_1.c(14,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\Project9\Project9\1213-3_1.c(16,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\Project9\Project9\1213-3_1.c(17,16): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\Project9\Project9\1213-3_1.c(22,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\Project9\Project9\1213-3_1.c(26,16): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\Project9\Project9\1213-3_1.c(35,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\Project9\Project9\1213-3_1.c(9,16): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Project9.vcxproj -> C:\C\Project9\Debug\Project9.exe
